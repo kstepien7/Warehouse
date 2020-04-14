@@ -1,0 +1,15 @@
+io\github\kst\client\Client.class
+io\github\kst\route\RouteService.class
+io\github\kst\warehouse\WarehouseRepository.class
+io\github\kst\courierbase\CourierBaseRepository.class
+io\github\kst\warehouse\DistanceToWarehouse.class
+io\github\kst\courierbase\CourierBase.class
+io\github\kst\route\Route.class
+io\github\kst\Tour.class
+io\github\kst\mock\WarehouseMock.class
+io\github\kst\warehouse\Warehouse.class
+io\github\kst\courierbase\DistanceToBase.class
+io\github\kst\mock\tst.class
+io\github\kst\HibernateUtil.class
+io\github\kst\Service.class
+io\github\kst\Distance.class
